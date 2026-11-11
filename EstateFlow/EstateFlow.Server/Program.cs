@@ -1,4 +1,4 @@
-using EstateFlow.Server.Data;
+using EstateFlow.Infrastructure.Data;
 using EstateFlow.Server.Services;
 using FluentValidation;
 using Microsoft.EntityFrameworkCore;

@@ -1,5 +1,5 @@
 ﻿using EstateFlow.Server.Contracts.Meters;
-using EstateFlow.Server.Data;
+using EstateFlow.Infrastructure.Data;
 using EstateFlow.Domain;
 using Microsoft.EntityFrameworkCore;
 
